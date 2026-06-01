@@ -76,7 +76,8 @@
             <plugin>
               <artifactId>maven-surefire-report-plugin</artifactId>
             </plugin>
-              
+           </reportPlugins>
+    </configuration>   
     </plugins>
 
     <pluginManagement>
