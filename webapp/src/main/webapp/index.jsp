@@ -20,7 +20,10 @@
     <label for="psw"><b>Mother Name</b></label>
     <input type="text" placeholder="Enter Name" name="psw" id="psw" required>
     <br>
-
+    
+    <label for="psw"><b>Father Name</b></label>
+    <input type="text" placeholder="Enter Name" name="psw" id="psw" required>
+    <br>
 
 
     <button type="submit" class="registerbtn">Register</button>
