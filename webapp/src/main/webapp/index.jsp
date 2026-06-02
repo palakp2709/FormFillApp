@@ -25,6 +25,15 @@
     <input type="text" placeholder="Enter Name" name="psw" id="psw" required>
     <br>
 
+    <label for="psw"><b>Your Name</b></label>
+    <input type="text" placeholder="Enter Name" name="psw" id="psw" required>
+    <br>
+    
+    <label for="psw"><b>Brother Name</b></label>
+    <input type="text" placeholder="Enter Name" name="psw" id="psw" required>
+    <br>
+
+
 
     <button type="submit" class="registerbtn">Register</button>
   </div>
